@@ -1,0 +1,2 @@
+# ARA
+Autonomous Research Agent
